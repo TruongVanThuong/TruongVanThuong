@@ -4,9 +4,9 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+- ✍ I'm a student of: [Cao Dang FPT Polytechnic DA NANG](https://caodang.fpt.edu.vn/) .
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Back End.**
 
 
 <!--
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-sẻtysdfyhgsdfhfdshsdfgh
+
