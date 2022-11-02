@@ -1,6 +1,6 @@
 <h3 align="center"> hello everyone 👋</h3>
 <h2 align="center">I"M TRUONG VAN THUONG</h2>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/108728275/199531258-256ac026-d16d-4eb9-bb57-e5961ba60d8e.jpg" width="170"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
